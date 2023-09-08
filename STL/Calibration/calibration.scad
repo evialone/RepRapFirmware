@@ -1,7 +1,7 @@
 // OpenSCAD file for producing the testpiece, gauge and thumbwheel for orthogonal axis compensation for RepRapPro Ormerod, Mendel and Huxley printers //
 // Revised with text. You need to use OpenSCAD version 2015.03 for the test to render correctly, and Arial Black installed as a font //
 
-long = 90; // Set length for testpiece here
+long = 0; // Set length for testpiece here
 chamfer=0.5;
 
 // comment out the following lines to get the parts you want. Comment out the translations if you want the part at the origin.
